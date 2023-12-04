@@ -110,7 +110,7 @@ for i in Nquestions:
 
 
 
-print("#" * 40 )
+print("#" * 30 )
 
 
 if score <= 4:
